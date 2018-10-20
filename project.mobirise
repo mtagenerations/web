@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MTAGenerations",
-    "currentPage": "page5.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -17,7 +17,7 @@
         "textFont": "Raleway",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false,
+        "isScrollToTopButton": true,
         "isRtl": false
       },
       "additionalSetColors": [
@@ -178,7 +178,7 @@
             "paddingTop": "6",
             "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/ts1-1920x1280.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/ts12-960x640.png",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#fff",
